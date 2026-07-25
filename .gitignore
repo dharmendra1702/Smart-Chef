@@ -1,0 +1,7 @@
+.env
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+android/.gradle/
+ios/Flutter/ephemeral/
